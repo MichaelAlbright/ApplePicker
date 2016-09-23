@@ -171,9 +171,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   applePrefab: {fileID: 127358, guid: 041ad1f37ce1645dbaaba1027c4186ab, type: 2}
-  speed: 1
+  speed: 2
   leftAndRightEdge: 20
-  chanceToChangeDirections: 0.02
+  chanceToChangeDirections: 0.01
   secondsBetweenAppleDrops: 1
 --- !u!135 &13547856
 SphereCollider:
